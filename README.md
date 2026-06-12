@@ -9,4 +9,4 @@ using vertical MOSFETs (often generalised as "[HEXFET](https://sound-au.com/arti
 * integrated (DC-) protection & anti-pop delay -circuit with relays
 
 
-<img srcs="pics/Scion-Thel_02.png" />
+<img src="/pics/Scion-Thel_02.png" />
