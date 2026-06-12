@@ -7,6 +7,9 @@ using vertical MOSFETs (often generalised as "[HEXFET](https://sound-au.com/arti
 * not DC-coupled (has an input Cap (KP film/foil))  
 * using vertical MOSFETs IRFP240 / IRFP9240  
 * integrated (DC-) protection & anti-pop delay -circuit with relays
-
-
+   
+https://web.archive.org/web/20160915140328/http://www.thel-audioworld.de/module/Endstufe/Scionthel.htm
+https://web.archive.org/web/20170914180235/http://www.thel-audioworld.de/module/Endstufe/Scionthel.htm
+https://web.archive.org/web/20190716193340/http://www.thel-audioworld.de/module/Endstufe/Scionthel.htm
+   
 <img src="/pics/Scion-Thel_02.png" />
